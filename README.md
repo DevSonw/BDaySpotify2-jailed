@@ -4,7 +4,7 @@ iOS Tweak for non-jailbroken devices to get Spotify Premium for free, with some 
 
 You can contact me through Reddit as [u/andugu](https://www.reddit.com/user/andugu) or in Twitter as [@anduguuu](https://twitter.com/anduguuu)
 
-Downloading this you agree that any use of this program, runs under your sensibility.
+Downloading this you agree that any use of this program is under your responsability.
 
 #####Thanks to
 * [andugu](https://github.com/andugu) (me) to port the tweak to non-jailbroken devices.
