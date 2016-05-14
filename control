@@ -1,0 +1,9 @@
+Package: com.andugu.bdayspotify2-jailed
+Name: BDaySpotify2-jailed
+Depends: mobilesubstrate
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Spotify tweak made with theos-jailed
+Maintainer: andugu
+Author: andugu
+Section: Tweaks
